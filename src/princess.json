@@ -1,0 +1,62 @@
+[
+{
+    "id": 1,
+    "name": "Ariel",
+    "image": "../images/Ariel.jpg"
+},
+{
+    "id": 2,
+    "name": "Aurora",
+    "image": "./images/Aurora.jpg"
+},
+{
+    "id": 3,
+    "name": "Belle",
+    "image": "./images/Belle.jpg"
+},
+{
+    "id": 4,
+    "name": "Cindy",
+    "image": "./images/Cindy.jpg"
+},
+{
+    "id": 5,
+    "name": "Jasmine",
+    "image": "./images/Jasmine.jpg"
+},
+{
+    "id": 6,
+    "name": "Moana",
+    "image": "./images/Moana.jpg"
+},
+{
+    "id": 7,
+    "name": "Mulan",
+    "image": "./images/Mulan.jpg"
+},
+{
+    "id": 8,
+    "name": "Odette",
+    "image": "./images/Odette.jpg"
+},
+{
+    "id": 9,
+    "name": "Pocahontas",
+    "image": "./images/Pocahontas.jpg"
+},
+{
+    "id": 10,
+    "name": "Rapunzel",
+    "image": "./images/Rapunzel.jpg"
+},
+{
+    "id": 11,
+    "name": "Snow",
+    "image": "./images/Snow.jpg"
+},
+{
+    "id": 12,
+    "name": "Tiana",
+    "image": "./images/Tiana.jpg"
+}
+]

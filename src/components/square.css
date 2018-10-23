@@ -1,0 +1,11 @@
+.square {
+    width: 250px;
+    height: 250px;
+    border: solid 1px #000000;
+    float: left
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
